@@ -234,9 +234,9 @@ TMDSGK名下 之前使用和推广很多的机器人 @sgk2022_11_30bot 和 @TMDS
 
 # 帮助和代查联系：
 
-## 通过Telegram联系: <a href="https://t.me/+rOY6r7F8D-ViZDQ1" target="_blank">点击跳转TG</a><br>
-有tg账号的请尽量通过tg联系，没有tg的可以邮箱联系
+帮助和代查都是收费的，愿意付费寻求帮助的联系，有tg账号的请尽量通过tg联系，没有tg的可以邮箱联系
 
+## 通过Telegram联系: <a href="https://t.me/+rOY6r7F8D-ViZDQ1" target="_blank">点击跳转TG</a><br>
 ## 通过邮箱联系：nqfdsrsmp@exelica.com
 
 帮查，推荐适应所有系统的免费VPN，注册Telegram收不到验证码，以及其他各种问题，解答疑惑均可。<br>
