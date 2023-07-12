@@ -86,8 +86,8 @@ TMDSGK名下 之前使用和推广很多的机器人 @sgk2022_11_30bot 和 @TMDS
 
 常用查询关键词: QQ|邮箱|用户名|电话|姓名|身份号
 
-地址链接：[ @AISGK](https://t.me/aishegongkubot?start=AISGK_ZL3E2L1A)
-[_Bot ](http://t.me/aishegongkubot?start=AISGK_4DQTJF6S)
+地址链接：[@AISGK_](https://t.me/aishegongkubot?start=AISGK_ZL3E2L1A)
+[Botbot](http://t.me/aishegongkubot?start=AISGK_4DQTJF6S)
 
 ### 谷歌社工库
 🔍可查询：**手机号历史定位**、Q绑定信息、QQ老密、手机机主、车主信息、快递地址、个人户籍、群组关系、游戏信息
